@@ -13,7 +13,7 @@ Este proyecto es una Single Page Application (SPA) desarrollada en React, utiliz
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/luisaap-dev/APP.barminton.git
+   git clone https://github.com/luisaap-dev/APP.Website-Barminton
 
 
 ## Autor
